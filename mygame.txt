@@ -1,4 +1,5 @@
 <mygame>
 	yeah!!!
 	yes :)
+	no
 </mygame>
